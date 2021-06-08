@@ -20,3 +20,10 @@ def min_plus_mod(num1: int, num2 : int):
 minus,plus, modulus = min_plus_mod(10,2)
 
 print(minus,plus, modulus)
+
+tuple_kota = ('Jakarta', 'Bali', 'Semarang', 'Depok')
+
+# print(tuple_kota[1:3])
+# print(tuple_kota[-3:-1])
+print(tuple_kota[1:-1])
+print(tuple_kota[1:2])

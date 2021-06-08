@@ -1,0 +1,2 @@
+name = afista 
+hobbies = coding
